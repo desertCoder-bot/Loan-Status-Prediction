@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact the repository owner at [devil030802](https://github.com/devil030802).
+If you have any questions or suggestions, feel free to open an issue or contact the repository owner at [desertCoder-bot](https://github.com/desertCoder-bot).
 
 ## Acknowledgements
 
